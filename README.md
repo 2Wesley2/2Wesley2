@@ -41,6 +41,7 @@ Tenho buscado desenvolver cada vez mais meu conhecimento em **TypeScript**, com 
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=22c55e" />
   <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=0ea5e9" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=facc15" />
   <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=22c55e" />
   <img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=ef4444" />
