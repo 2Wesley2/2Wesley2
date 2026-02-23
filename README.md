@@ -30,7 +30,7 @@
 ---
 
 ## 👋 Sobre mim
-Sou desenvolvedor **Full-Stack** com foco em **TypeScript/Node.js/React**, construção de **APIs**, **SaaS**, modelagem com **MongoDB**, testes automatizados e sustentação em produção.
+Sou desenvolvedor **Full-Stack** com foco em **TypeScript/Node.js/React**, construção de **APIs**, **SaaS**, modelagem com **MongoDB**, testes automatizados e sustentação em produção.  
 Tenho buscado desenvolver cada vez mais meu conhecimento em **TypeScript**, com foco em entregas seguras (testes, refatoração incremental e PRs pequenos).
 
 ---
@@ -51,36 +51,12 @@ Tenho buscado desenvolver cada vez mais meu conhecimento em **TypeScript**, com 
 
 ---
 
-## 📊 Estatísticas
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=2Wesley2&show_icons=true&theme=transparent&hide_border=true&count_private=true"
-    alt="GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2Wesley2&layout=compact&theme=transparent&hide_border=true"
-    alt="Top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=2Wesley2&theme=transparent&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
-
----
-
-## 🏆 Troféus
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=2Wesley2&theme=flat&no-frame=true&row=1&column=7"
-    alt="trophies"
-  />
-</p>
+## ✅ O que eu faço bem (na prática)
+- Construção e evolução de **APIs REST** com **Node.js/TypeScript**
+- **Modelagem MongoDB/Mongoose** (schemas, validações, índices)
+- **Autenticação/Autorização (RBAC)** e boas práticas de segurança
+- **Testes automatizados** (unitário, integração, E2E) para reduzir regressões
+- **Deploy e sustentação** com diagnóstico por logs/observabilidade
 
 ---
 
